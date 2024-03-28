@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [SIAS](https://github.com/JairoDevBR/SIAS)
 
-- 🌱 I’m currently learning **C# and NodeJs**
+- 🌱 I’m currently learning **React and Next.Js**
 
 - 📫 How to reach me **jairogoncalvesdev@gmail.com**
 
