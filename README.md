@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working at Justix
 
-- 🌱 I’m currently learning **React and Next.Js**
-
 - 📫 How to reach me **jairogoncalvesdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
